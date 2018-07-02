@@ -1,5 +1,5 @@
 {
-  "name": "local_time",
+  "name": "@commuted/local_time",
   "version": "1.0.0",
   "description": "from geo coordinates and GMT return local time",
   "main": "index.js",
