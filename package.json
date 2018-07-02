@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/commuted/local_time.git"
   },
-
+  "dependencies": {
+    "geo-tz": "4.0.1"
+  },
   "keywords": [
     "local time",
     "GPS",
@@ -22,11 +24,10 @@
     "galileo",
     "GMT",
     "UTC"
-    ],
+  ],
   "author": "Ron Hinchley <commuted@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/commuted/local_time/issues"
   }
-
 }
