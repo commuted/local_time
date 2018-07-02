@@ -1,0 +1,32 @@
+{
+  "name": "local_time",
+  "version": "1.0.0",
+  "description": "from geo coordinates and GMT return local time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commuted/local_time.git"
+  },
+
+  "keywords": [
+    "local time",
+    "GPS",
+    "timezone",
+    "time zone",
+    "daylight savings time",
+    "geo coordinates",
+    "glonass",
+    "galileo",
+    "GMT",
+    "UTC"
+    ],
+  "author": "Ron Hinchley <commuted@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/commuted/local_time/issues"
+  }
+
+}
