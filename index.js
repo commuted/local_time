@@ -128094,6 +128094,3 @@ function get_local_correction(time, geo_lon, geo_lat) {
 
 exports.get_local_correction = get_local_correction;
 
-
-console.log(get_local_correction(1528616801, 47.650499, -122.350070));
-
