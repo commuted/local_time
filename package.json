@@ -11,7 +11,7 @@
     "url": "git+https://github.com/commuted/local_time.git"
   },
   "dependencies": {
-    "geo-tz": "4.0.1"
+    "geo-tz": "^4.0.1"
   },
   "keywords": [
     "local time",
